@@ -12,18 +12,18 @@ Create a virtual environment (optional but recommended):
 
 Run python -m venv venv
 
-### Activate the virtual environment:
+## Activate the virtual environment:
 
 On Windows: Run venv\Scripts\activate
 
 On macOS/Linux: Run source venv/bin/activate
 
-#### Install the required Python libraries:
+## Install the required Python libraries:
 
 Run pip install -r requirements.txt
 Make sure you have Chrome installed on your device. You can download it from the official page: [Download Google Chrome](https://www.google.com/chrome/)
 
-##### Usage Instructions
+## Usage Instructions
 Run the script by executing:
 
 python Image-Scraper.py
